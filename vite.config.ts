@@ -8,7 +8,8 @@ export default defineConfig({
     polyfillDynamicImport: false,
 		rollupOptions: {
 			output: {
-				manualChunks: undefined
+				manualChunks: undefined,
+				entryFileNames: 'crunchyroll.com.js',
 			}
 		}
   },

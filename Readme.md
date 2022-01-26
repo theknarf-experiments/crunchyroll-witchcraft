@@ -13,5 +13,5 @@ yarn build
 3. Copy the built plugin
 
 ```
-cp ./dist/assets/index.de933120.js ~/.witchcraft-scripts/crunchyroll.com.js
+cp ./dist/crynchyroll.com.js ~/.witchcraft-scripts/
 ```
